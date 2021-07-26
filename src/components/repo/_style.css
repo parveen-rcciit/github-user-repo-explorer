@@ -1,0 +1,44 @@
+.repo-container {
+    background-color: #e0e0e0;
+    margin: 12px 0 12px 0;
+    padding: 24px 12px;
+    width: 90%;
+    float: right;
+}
+
+.repo-container a {
+    text-decoration: none;
+    color: black;
+}
+
+.repo-details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.repo-info {
+    width: 80%;
+    word-wrap: break-word;
+}
+  
+.repo-description {
+    margin-top: 12px;
+}
+  
+.repo-stargazers {
+    font-size: 16px;
+}
+
+.no-repo {
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+}
