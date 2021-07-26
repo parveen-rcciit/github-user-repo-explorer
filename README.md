@@ -1,6 +1,6 @@
 ## Github User Repo Explorer
 
-Project live demo - [here](https://github-user-repo-explorer.herokuapp.com/)
+[Click here for live demo](https://github-user-repo-explorer.herokuapp.com/)
 
 
 Problem Statement:
